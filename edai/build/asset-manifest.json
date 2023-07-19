@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20d17ee5.css",
+    "main.js": "/static/js/main.575d17f1.js",
+    "static/js/787.b08e88a8.chunk.js": "/static/js/787.b08e88a8.chunk.js",
+    "static/media/backgroundimage1.jpg": "/static/media/backgroundimage1.195cfee9e1b83c04aef2.jpg",
+    "static/media/google-logo.png": "/static/media/google-logo.0ff45cb66598335e2f43.png",
+    "static/media/EdAI Logo.png": "/static/media/EdAI Logo.17440007c2228a7d79c7.png",
+    "static/media/AI Support Screenshot.jpg": "/static/media/AI Support Screenshot.2eb8fce9266a071fc9eb.jpg",
+    "static/media/Student-Studying.jpg": "/static/media/Student-Studying.85d5e1d8963660512735.jpg",
+    "static/media/study-group-img.avif": "/static/media/study-group-img.0321d1a2287c6a12f456.avif",
+    "static/media/Gratified Student.avif": "/static/media/Gratified Student.2690f0930133e2168496.avif",
+    "static/media/React_logo.png": "/static/media/React_logo.a2261f1c1aae3ad01a7a.png",
+    "static/media/aws_logo.png": "/static/media/aws_logo.2b032e682bbe8ced10e4.png",
+    "static/media/facebook-logo.png": "/static/media/facebook-logo.6327c4437b545ad6980e.png",
+    "index.html": "/index.html",
+    "main.20d17ee5.css.map": "/static/css/main.20d17ee5.css.map",
+    "main.575d17f1.js.map": "/static/js/main.575d17f1.js.map",
+    "787.b08e88a8.chunk.js.map": "/static/js/787.b08e88a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d17ee5.css",
+    "static/js/main.575d17f1.js"
+  ]
+}
